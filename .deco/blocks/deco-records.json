@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://neuro-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "4e500455e09f8f45a34f5f05548d321c9a02077972a79ec5f81e557f042fa0a6acbf3672daedf439ddec78374ed67b9589748e9749ac5245b87d50dab3fe134f2f12bf6060059ff1ea05f2ea65e3911d599814abd9b47d3c873a9b73991a7be5dd9ccfa5d477f4bbfe911ea0d8195a01b809ef4d0069f02529cf1283609d929f295c94d260cad7762cf6782313d4e6832551245c3daac4473f65cfc9f1c648eba0e53a46b17795cc42a5687da255c96aefc6d942532a39b86bdc152e3a1c8391fb6e2bf1fb33edde29fc61246334e7aa90e70d5962dd873643fe5dc869c94933"
+  }
+}
